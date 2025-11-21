@@ -1,415 +1,415 @@
 // js/questions.js
-export const starWarsQuestions = [
+export const starWarsNiveauExtremeQuestions = [
   {
-    "question": "Quel est le titre du tout premier film Star Wars sorti en 1977 (épisode IV chronologiquement) ?",
-    "answer": "Un nouvel espoir"
-  },
-  {
-    "question": "Dans 'La Menace Fantôme' (Épisode I), sur quelle planète se déroule la course de Pods remportée par Anakin Skywalker ?",
-    "answer": "Tatooine"
-  },
-  {
-    "question": "Quel personnage emblématique est le maître Jedi d'Obi-Wan Kenobi dans 'La Menace Fantôme' et 'L'Attaque des Clones' ?",
-    "answer": "Qui-Gon Jinn"
-  },
-  {
-    "question": "Quel est le nom de la planète glacée où se déroule une bataille majeure au début de 'L'Empire contre-attaque' (Épisode V) ?",
-    "answer": "Hoth"
-  },
-  {
-    "question": "Qui est le chasseur de primes qui traque Han Solo et le livre à Jabba le Hutt ?",
-    "answer": "Boba Fett"
-  },
-  {
-    "question": "Dans 'L'Attaque des Clones' (Épisode II), quel est le nom de la planète où est située l'usine de clonage secrète ?",
-    "answer": "Kamino"
-  },
-  {
-    "question": "Quel est le nom du droïde astromech fidèle qui accompagne Luke Skywalker ?",
-    "answer": "R2-D2"
-  },
-  {
-    "question": "Quel personnage prononce la célèbre phrase : 'Je suis ton père' ?",
-    "answer": "Dark Vador"
-  },
-  {
-    "question": "Dans 'Le Retour du Jedi' (Épisode VI), sur quelle lune forestière vivent les Ewoks ?",
-    "answer": "Endor"
-  },
-  {
-    "question": "Quel est le nom du Maître Jedi aveugle de l'espèce Miraluka, vu au Conseil Jedi durant la prélogie ?",
-    "answer": "K'Kruhk"
-  },
-  {
-    "question": "Qui est la sœur jumelle de Luke Skywalker ?",
-    "answer": "Leia Organa"
-  },
-  {
-    "question": "Quel est le nom du vaisseau spatial de Han Solo ?",
-    "answer": "Le Faucon Millenium"
-  },
-  {
-    "question": "Dans 'La Revanche des Sith' (Épisode III), sur quelle planète volcanique Anakin Skywalker affronte-t-il Obi-Wan Kenobi ?",
-    "answer": "Mustafar"
-  },
-  {
-    "question": "Quel est le nom de la capitale de la République Galactique, visible dans les films de la prélogie ?",
-    "answer": "Coruscant"
-  },
-  {
-    "question": "Quel Maître Jedi, petit par la taille mais puissant, enseigne la Force à Luke Skywalker sur Dagobah ?",
-    "answer": "Yoda"
-  },
-  {
-    "question": "Dans 'Un Nouvel Espoir', quel est le nom du système stellaire d'où provient le vaisseau de la Princesse Leia au début du film ?",
-    "answer": "Alderaan"
-  },
-  {
-    "question": "Quel est le nom de la station spatiale géante, capable de détruire des planètes, et conçue par l'Empire ?",
-    "answer": "L'Étoile de la Mort"
-  },
-  {
-    "question": "Dans 'Un Nouvel Espoir', qui est le pilote du X-Wing qui parvient à détruire l'Étoile de la Mort ?",
-    "answer": "Luke Skywalker"
-  },
-  {
-    "question": "Quel est le nom de l'amiral impérial, commandant de l'Executor, qui est étranglé par Dark Vador pour son échec à capturer le Faucon Millenium ?",
+    "question": "Quel est le nom de l'amiral impérial dont l'Executor est le vaisseau amiral, et qui est le seul officier à survivre à l'étranglement de Vador et à atteindre 'Le Retour du Jedi' ?",
     "answer": "Amiral Piett"
   },
   {
-    "question": "Comment s'appelle le wookiee, copilote de Han Solo ?",
-    "answer": "Chewbacca"
+    "question": "Dans 'La Revanche des Sith', quel est le nom de l'espèce du Grand Maître Jedi et membre du Conseil, Maître Fisto ?",
+    "answer": "Nautolan"
+  },
+  {
+    "question": "Quel est le titre officiel que l'Empereur Palpatine confère à Dark Vador, ordonnant l'exécution de l'Ordre 66 ?",
+    "answer": "Lord Vador"
+  },
+  {
+    "question": "Dans 'L'Attaque des Clones', quel est le nom de l'archiviste Jedi qui déclare à Obi-Wan que la planète Kamino n'existe pas dans les archives ?",
+    "answer": "Jocasta Nu"
+  },
+  {
+    "question": "Quel est le numéro de cellule précis de la Princesse Leia dans la première Étoile de la Mort, que Luke et Han doivent trouver ?",
+    "answer": "2187"
+  },
+  {
+    "question": "Quel est le nom du Maître Jedi Twi'lek qui siège au Conseil et qui est tuée par ses propres troupes clones lors de l'Ordre 66 ?",
+    "answer": "Aayla Secura"
+  },
+  {
+    "question": "Quel est le nom du General Séparatiste qui affronte Obi-Wan Kenobi sur Utapau avant d'être tué ?",
+    "answer": "Général Grievous"
+  },
+  {
+    "question": "Combien de bras le Général Grievous peut-il utiliser simultanément pour manier ses sabres laser lors de son duel avec Obi-Wan Kenobi ?",
+    "answer": "Quatre"
+  },
+  {
+    "question": "Dans 'Le Retour du Jedi', quel est le nom de la créature des sables qui attaque Luke Skywalker sur Tatooine et qui est tuée par Obi-Wan Kenobi ?",
+    "answer": "Le dragon Krayt (son cri est imité par Obi-Wan)"
+  },
+  {
+    "question": "Dans 'La Menace Fantôme', quel est le nom du droïde qui révèle à Qui-Gon Jinn et Obi-Wan qu'Anakin a construit C-3PO ?",
+    "answer": "R4-P17"
+  },
+  {
+    "question": "Quel est le nom du chasseur de primes qui, déguisé en femme, tente d'assassiner Padmé Amidala au début de 'L'Attaque des Clones' ?",
+    "answer": "Zam Wesell"
+  },
+  {
+    "question": "Quel est le nom de l'espèce des petites créatures ressemblant à des ours, originaires de la lune forestière d'Endor ?",
+    "answer": "Ewoks"
+  },
+  {
+    "question": "Quel est le titre officiel du Capitaine Solo avant la destruction de la première Étoile de la Mort, un titre qu'il reçoit à la fin d''Un nouvel espoir' ?",
+    "answer": "Capitaine (ou Commandant) de l'Alliance"
+  },
+  {
+    "question": "Quel est le nom du pilote ami de Luke qui est abattu lors de l'attaque de l'Étoile de la Mort dans 'Un nouvel espoir' ?",
+    "answer": "Biggs Darklighter"
+  },
+  {
+    "question": "Dans 'L'Attaque des Clones', quel est le nom de la planète où la Bataille de Geonosis a lieu ?",
+    "answer": "Geonosis"
+  },
+  {
+    "question": "Quel est le nom de l'espèce alien humanoïde avec une tête de calmar, l'Amiral Ackbar, qui dirige la flotte de l'Alliance ?",
+    "answer": "Mon Calamari"
+  },
+  {
+    "question": "Dans 'Le Retour du Jedi', quel est le nom du rancor de Jabba le Hutt, tué par Luke Skywalker ?",
+    "answer": "Pateesa"
+  },
+  {
+    "question": "Quel est le nom de la planète des Sith sur laquelle Yoda se rend brièvement à la fin de 'La Revanche des Sith' pour se préparer au combat contre Palpatine ?",
+    "answer": "Dagobah (où il s'exile, mais pas où il se rend pour se préparer au combat. La planète qu'il visite dans le canon Legends était Korriban, mais dans le canon des films, il part directement en exil sur Dagobah, la question est donc plus difficile qu'elle n'y paraît.) (Réponse plus simple pour un quiz : Coruscant, pour affronter Palpatine au Sénat)"
+  },
+  {
+    "question": "Quel est le nom du droïde de protocole qui a été construit par Anakin Skywalker quand il était enfant ?",
+    "answer": "C-3PO"
+  },
+  {
+    "question": "Quel est le code numérique exact du protocole que C-3PO cite avant que Dark Vador ne l'interrompe à propos de l'Hyperdrive du Faucon Millenium ?",
+    "answer": "326-3827"
+  },
+]
+
+export const christmasMoviesQuestions = [
+  {
+    "question": "Dans quel film le jeune Kevin McCallister se retrouve-t-il seul chez lui à Noël après que sa famille l'a oublié ?",
+    "answer": "Maman, j'ai raté l'avion"
+  },
+  {
+    "question": "Quel personnage est le principal antagoniste qui veut voler Noël dans le conte 'Comment le Grinch a volé Noël' ?",
+    "answer": "Le Grinch"
+  },
+  {
+    "question": "Quel est le titre du film où un jeune garçon prend un train mystérieux pour se rendre au Pôle Nord ?",
+    "answer": "Le Pôle Express"
+  },
+  {
+    "question": "Quel film d'animation des studios Disney, sorti en 2013, est centré sur les aventures des deux sœurs royales, Elsa et Anna ?",
+    "answer": "La Reine des Neiges"
+  },
+  {
+    "question": "Dans 'Le Père Noël est une ordure', quel est le nom de l'association caritative où se déroule l'action ?",
+    "answer": "SOS Détresse Amitié"
+  },
+  {
+    "question": "Quel est le nom du personnage principal, un elfe élevé au Pôle Nord qui découvre qu'il est humain, dans le film 'Elfe' de 2003 ?",
+    "answer": "Buddy"
+  },
+  {
+    "question": "Quel film met en scène Jack Skellington, le Roi des Citrouilles, qui tente d'organiser la fête de Noël ?",
+    "answer": "L'Étrange Noël de Monsieur Jack"
+  },
+  {
+    "question": "Dans 'Love Actually', quelle ville est le lieu principal des neuf histoires d'amour qui s'entremêlent à Noël ?",
+    "answer": "Londres"
+  },
+  {
+    "question": "Quel film classique de 1946 raconte l'histoire d'un homme affirmant être le Père Noël, et qui doit le prouver au tribunal ?",
+    "answer": "Miracle sur la 34e rue"
+  },
+  {
+    "question": "Quel est le nom du chien du Grinch, le seul ami du monstre vert avant qu'il ne découvre le vrai sens de Noël ?",
+    "answer": "Max"
+  },
+  {
+    "question": "Dans le film d'animation 'La Reine des Neiges', quel est le nom du bonhomme de neige qui rêve de l'été ?",
+    "answer": "Olaf"
+  },
+  {
+    "question": "Quel est le nom du jouet que le père (Arnold Schwarzenegger) essaie désespérément d'obtenir le soir de Noël dans 'La Course au jouet' (Jingle All the Way) ?",
+    "answer": "Turbo Man"
+  },
+  {
+    "question": "Quel est le titre du film d'animation de Robert Zemeckis basé sur 'Un chant de Noël' de Charles Dickens ?",
+    "answer": "Le Drôle de Noël de Scrooge (ou Un chant de Noël)"
+  },
+  {
+    "question": "Dans 'Gremlins', quel genre d'animal est le 'Mogwai' (Gizmo), le cadeau de Noël qui cause des problèmes ?",
+    "answer": "Un Mogwai (ou une petite créature)"
+  },
+  {
+    "question": "Quel film d'action, souvent considéré comme un film de Noël, se déroule lors d'une fête d'entreprise à la veille de Noël ?",
+    "answer": "Piège de Cristal (Die Hard)"
+  },
+  {
+    "question": "Dans 'Piège de Cristal', quel est le prénom de l'épouse de John McClane, dont la fête de Noël est interrompue ?",
+    "answer": "Holly"
+  },
+  {
+    "question": "Dans 'Le Pôle Express', quel objet le Père Noël donne-t-il au jeune garçon qui le ramène de son voyage ?",
+    "answer": "Une cloche"
+  },
+  {
+    "question": "Quel est le nom de l'héroïne qui, dans 'Le Père Noël est une ordure', est bénévole à la permanence téléphonique et tricote des pulls laids ?",
+    "answer": "Thérèse"
+  },
+  {
+    "question": "Dans 'Maman, j'ai raté l'avion', comment s'appellent les deux cambrioleurs qui tentent d'entrer chez Kevin ?",
+    "answer": "Harry et Marvin"
+  },
+  {
+    "question": "Quel est le titre du film où un homme riche (Michael Keaton) revient de la mort sous la forme d'un bonhomme de neige pour son fils ?",
+    "answer": "Jack Frost"
   }
 ]
 
-export const blockBustersQuestions = [
+export const horrorMoviesQuestions = [
   {
-    "question": "Dans le film 'Le Monde de Narnia', quel animal est le sage Aslan ?",
-    "answer": "Un lion"
+    "question": "Quel est le nom du célèbre tueur au masque blanc qui poursuit Sidney Prescott dans la saga 'Scream' ?",
+    "answer": "Ghostface"
   },
   {
-    "question": "Quel dinosaure géant est la principale attraction (et menace) du parc dans 'Jurassic Park' ?",
-    "answer": "Tyrannosaure Rex"
+    "question": "Quel film d'horreur de 1973 met en scène une jeune fille possédée nommée Regan MacNeil ?",
+    "answer": "L'Exorciste"
   },
   {
-    "question": "Dans le film 'Titanic', quel est le nom de lobjet précieux qui est au centre de l'intrigue et de la romance entre Jack et Rose ?",
-    "answer": "Le Cœur de l'Océan"
+    "question": "Dans la saga 'Halloween', quel est le nom du tueur masqué qui s'échappe d'un asile pour chasser Laurie Strode ?",
+    "answer": "Michael Myers"
   },
   {
-    "question": "Quel est le nom du célèbre archéologue aventurier incarné par Harrison Ford ?",
-    "answer": "Indiana Jones"
+    "question": "Quel est le nom du clown maléfique qui terrorise les enfants de la ville de Derry dans le roman de Stephen King adapté au cinéma ?",
+    "answer": "Ça (ou Penny Wise, si c'est Penny Wise alors 2pt)"
   },
   {
-    "question": "Dans la saga 'Harry Potter', quel est le nom de l'école de sorcellerie ?",
-    "answer": "Poudlard"
+    "question": "Quel est le nom du tueur avec des lames au bout des doigts qui hante les rêves des adolescents dans 'Les Griffes de la nuit' ?",
+    "answer": "Freddy Krueger"
   },
   {
-    "question": "Quel acteur principal du film 'Avatar' incarne le personnage de Jake Sully ?",
-    "answer": "Sam Worthington"
+    "question": "Quel film de 1960 réalisé par Alfred Hitchcock met en scène le motel Bates et le personnage de Norman Bates ?",
+    "answer": "Psychose"
   },
   {
-    "question": "Dans la trilogie 'Le Seigneur des Anneaux', quel est l'anneau que Frodon Sacquet doit détruire ?",
-    "answer": "L'Anneau Unique"
+    "question": "Dans quel film d'horreur un tueur en série surnommé Jigsaw piège-t-il ses victimes dans des jeux mortels pour leur faire apprécier la vie ?",
+    "answer": "Saw"
   },
   {
-    "question": "Quel film de Christopher Nolan présente des personnages voyageant à travers des rêves imbriqués ?",
-    "answer": "Inception"
+    "question": "Dans 'Saw', quel moyen de locomotion le tueur Jigsaw utilise-t-il pour apparaître dans de nombreuses scènes ?",
+    "answer": "Un tricycle"
   },
   {
-    "question": "Quel est le nom du robot transformable, chef des Autobots, dans la saga 'Transformers' ?",
-    "answer": "Optimus Prime"
+    "question": "Quel est le nom de la poupée tueuse possédée par l'esprit d'un tueur en série, et apparue en 1988 ?",
+    "answer": "Chucky"
   },
   {
-    "question": "Quel est le titre du premier film de la saga 'Le Hobbit', préquel du 'Seigneur des Anneaux' ?",
-    "answer": "Un voyage inattendu"
+    "question": "Quel film raconte l'histoire d'un grand requin blanc qui terrorise les baigneurs d'une petite station balnéaire ?",
+    "answer": "Les Dents de la mer"
   },
   {
-    "question": "Quelle actrice incarne Katniss Everdeen dans la saga 'Hunger Games' ?",
-    "answer": "Jennifer Lawrence"
+    "question": "Dans quel film une famille est-elle kidnappée par des cannibales, dont le plus célèbre porte un masque en peau humaine ?",
+    "answer": "Massacre à la tronçonneuse"
   },
   {
-    "question": "Quel réalisateur est connu pour des blockbusters tels que 'E.T. l'extra-terrestre', 'Les Dents de la mer' et 'Jurassic Park' ?",
-    "answer": "Steven Spielberg"
+    "question": "Dans le film 'Poltergeist', quel est le nom de la famille qui est menacée par des esprits ?",
+    "answer": "la famille Freeling"
   },
   {
-    "question": "Dans 'Pirates des Caraïbes', comment s'appelle le navire maudit du Capitaine Jack Sparrow ?",
-    "answer": "Le Black Pearl"
+    "question": "Quel film de 1979 met en scène l'équipage du vaisseau Nostromo confronté à une créature extraterrestre hostile ?",
+    "answer": "Alien"
   },
   {
-    "question": "Quel super-héros est un milliardaire doté d'une combinaison de haute technologie et d'un assistant IA nommé JARVIS ?",
-    "answer": "Iron Man"
+    "question": "Quel est le nom de l'héroïne qui affronte Michael Myers dans la plupart des films de la saga 'Halloween' ?",
+    "answer": "Laurie Strode"
   },
   {
-    "question": "Quel est le nom du célèbre agent secret britannique avec un permis de tuer, souvent désigné par '007' ?",
-    "answer": "James Bond"
+    "question": "Dans le film 'Get Out', quelle couleur de voiture symbolise la 'Sunken Place' ?",
+    "answer": "Noir (le trou noir)"
   },
   {
-    "question": "Quel acteur incarne l'agent secret Ethan Hunt dans la saga 'Mission: Impossible' ?",
-    "answer": "Tom Cruise"
+    "question": "Quel est le nom du démon que les personnages invoquent involontairement dans la saga 'Evil Dead' ?",
+    "answer": "Le Kandarian Demon"
   },
   {
-    "question": "Dans quel film une équipe de super-héros se rassemble-t-elle pour la première fois pour combattre Loki et les Chitauri ?",
-    "answer": "Avengers"
+    "question": "Quel film d'horreur se déroule principalement dans un hôtel isolé, rendant fou le gardien pendant l'hiver ?",
+    "answer": "Shining"
   },
   {
-    "question": "Quel est le nom du super-héros masqué de Gotham City, connu pour sa Batmobile et sa Batcave ?",
-    "answer": "Batman"
+    "question": "Quel est le nom de la petite fille aux pouvoirs psychiques qui est l'héroïne du film 'Carrie au bal du diable' ?",
+    "answer": "Carrie White"
   },
   {
-    "question": "Dans 'Fast & Furious', quel est le nom du personnage incarné par le défunt Paul Walker ?",
-    "answer": "Brian O'Conner"
+    "question": "Quel est le nom de la franchise d'horreur où les gens sont attaqués par des créatures qui réagissent au son ?",
+    "answer": "Sans un bruit (A Quiet Place)"
   },
   {
-    "question": "Quel est le nom du célèbre détective privé londonien souvent accompagné du Dr Watson, popularisé par plusieurs blockbusters récents ?",
-    "answer": "Sherlock Holmes"
+    "question": "Quel est le titre du film d'horreur japonais, où une cassette vidéo maudite tue les spectateurs ?",
+    "answer": "Ring (ou Ringu)"
   }
 ]
 
-export const cinemaFrancaisQuestions = [
+export const nouvelleVagueQuestionsV2 = [
   {
-    "question": "Quel est le nom du célèbre comédien français décédé en 1987, connu pour ses rôles dans 'La Grande Vadrouille' et 'Le Corniaud' ?",
-    "answer": "Louis de Funès"
-  },
-  {
-    "question": "Quel acteur incarne le personnage de Papy dans la saga humoristique 'Les Bronzés' ?",
-    "answer": "Michel Blanc"
-  },
-  {
-    "question": "Dans 'Le Dîner de Cons', quel est le nom de l'éditeur qui organise les dîners ?",
-    "answer": "Pierre Brochant"
-  },
-  {
-    "question": "Quel est le titre du film culte où Louis de Funès incarne un gendarme à Saint-Tropez ?",
-    "answer": "Le Gendarme de Saint-Tropez"
-  },
-  {
-    "question": "Dans 'OSS 117 : Le Caire, nid d'espions', quel acteur joue le rôle principal de l'agent Hubert Bonisseur de La Bath ?",
-    "answer": "Jean Dujardin"
-  },
-  {
-    "question": "Quel célèbre festival de cinéma se déroule chaque année sur la Côte d'Azur en France ?",
-    "answer": "Le Festival de Cannes"
-  },
-  {
-    "question": "Quel réalisateur est connu pour ses films muets comiques comme 'Mon Oncle' ou 'Playtime' ?",
-    "answer": "Jacques Tati"
-  },
-  {
-    "question": "Dans 'Amélie Poulain', dans quel quartier de Paris l'action se déroule-t-elle principalement ?",
-    "answer": "Montmartre"
-  },
-  {
-    "question": "Quel est le nom du célèbre village gaulois dont les habitants résistent encore et toujours à l'envahisseur romain ?",
-    "answer": "Le village d'Astérix (la réponse 'n'a pas de nom' est accepté)"
-  },
-  {
-    "question": "Quel acteur joue le rôle principal dans le film 'Intouchables', inspiré d'une histoire vraie ?",
-    "answer": "Omar Sy"
-  },
-  {
-    "question": "Quel est le nom du réalisateur français connu pour les films 'Taxi' ?",
-    "answer": "Luc Besson"
-  },
-  {
-    "question": "Dans 'Astérix et Obélix : Mission Cléopâtre', qui incarne Cléopâtre ?",
-    "answer": "Monica Bellucci"
-  },
-  {
-    "question": "Quel est le titre du film de 1995 de Mathieu Kassovitz, récompensé à Cannes et devenu culte ?",
-    "answer": "La Haine"
-  },
-  {
-    "question": "Quel réalisateur est connu pour des comédies comme 'Le Père Noël est une ordure' et 'La Chèvre' ?",
-    "answer": "Francis Veber"
-  },
-  {
-    "question": "Dans 'Le fabuleux destin d'Amélie Poulain', quel est l'objet que le personnage principal aime jeter dans l'eau ?",
-    "answer": "Des pierres (cailloux ou ricochets acceptés)"
-  },
-  {
-    "question": "Quel est le nom de l'inspecteur campé par Lino Ventura dans le film 'Garde à vue' ?",
-    "answer": "Inspecteur Gallien"
-  },
-  {
-    "question": "Quel acteur français est célèbre pour ses rôles dans les films de cape et d'épée comme 'Le Bossu' ou 'Cartouche' ?",
-    "answer": "Jean-Paul Belmondo"
-  },
-  {
-    "question": "Dans 'Le Prénom', quel est le prénom qui crée un scandale lors d'un dîner entre amis ?",
-    "answer": "Adolphe"
-  },
-  {
-    "question": "Quel est le titre du film avec Dany Boon et Kad Merad qui a battu tous les records d'entrées en France en 2008 ?",
-    "answer": "Bienvenue chez les Ch'tis"
-  },
-  {
-    "question": "Quel film retrace la vie d'Édith Piaf, avec Marion Cotillard dans le rôle principal ?",
-    "answer": "La Môme"
-  },
-]
-
-export const nouvelleVagueQuestions = [
-  {
-    "question": "Quel réalisateur phare de la Nouvelle Vague a déclaré : « Le cinéma, c'est un mensonge 24 fois par seconde, et la vérité, c'est ce qui est juste en dessous » ?",
-    "answer": "Godard"
-  },
-  {
-    "question": "Qui a réalisé le film de 1960 'Le Petit Soldat', qui a été interdit en France pendant plusieurs années en raison de son contenu politique sensible ?",
-    "answer": "Godard"
-  },
-  {
-    "question": "Qui a réalisé 'Une femme est une femme', une comédie musicale et un hommage au cinéma américain des années 1960 ?",
-    "answer": "Godard"
-  },
-  {
-    "question": "Quel film de la Nouvelle Vague débute par la célèbre phrase : 'Je m'appelle Patricia Franchini. J'ai 20 ans. Je suis Américaine' ?",
-    "answer": "A bout de souffle"
-  },
-  {
-    "question": "Quel cinéaste est souvent crédité d'avoir popularisé l'utilisation du jump cut de manière significative dans 'À bout de souffle' ?",
-    "answer": "Godard"
-  },
-  {
-    "question": "Quel film de 1962, souvent cité comme un jalon de la Nouvelle Vague, met en scène Anna Karina dans le rôle d'une prostituée et est structuré en douze tableaux ?",
-    "answer": "Godard"
-  },
-  {
-    "question": "Qui a réalisé 'Le Mépris' (1963), un film célèbre pour ses réflexions sur l'art, le cinéma et les relations humaines, avec Brigitte Bardot et Michel Piccoli ?",
-    "answer": "Godard"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Bande à part' (1964), un film stylisé et ludique qui rend hommage au film noir américain ?",
-    "answer": "Godard"
-  },
-  {
-    "question": "Quel est le réalisateur derrière 'La nuit américaine' (1973)",
-    "answer": "François Truffaut"
-  },
-  {
-    "question": "Quel réalisateur de la Nouvelle Vague est connu pour avoir souvent intégré des intertitres et des commentaires politiques directs dans ses films, notamment après 1967 ?",
-    "answer": "Godard"
-  },
-  {
-    "question": "Qui a réalisé 'Pierrot le Fou' (1965), un road-movie poétique et nihiliste avec Jean-Paul Belmondo et Anna Karina ?",
-    "answer": "Godard"
-  },
-  {
-    "question": "Quel réalisateur est l'auteur du film expérimental 'Deux ou trois choses que je sais d'elle' (1967), qui mêle documentaire et fiction pour critiquer la société de consommation ?",
-    "answer": "Godard"
-  },
-  {
-    "question": "Qui a coréalisé le film 'Moi, un noir' (1958), souvent considéré comme un précurseur de la Nouvelle Vague, même s'il est plus connu pour ses documentaires ethnographiques ?",
-    "answer": "Godard"
-  },
-  {
-    "question": "Quel réalisateur a affirmé que 'le cinéma est un art d'image et de son, mais qu'il faut toujours se rappeler que l'image est la plus importante' ?",
-    "answer": "Godard"
-  },
-  {
-    "question": "Quel critique des 'Cahiers du Cinéma' est devenu un réalisateur influent de la Nouvelle Vague, et a notamment signé 'Alphaville, une étrange aventure de Lemmy Caution' (1965) ?",
-    "answer": "Godard"
-  },
-  {
-    "question": "Quel réalisateur a souvent utilisé des dispositifs de distanciation (adresses directes à la caméra, cartes, intertitres) pour rompre l'illusion narrative dans ses films ?",
-    "answer": "Godard"
-  },
-  {
-    "question": "Qui a réalisé le film 'Alphaville, une étrange aventure de Lemmy Caution', mêlant science-fiction et film noir dans un Paris futuriste ?",
-    "answer": "Godard"
-  },
-  {
-    "question": "Dans quel film de 1967 un employé (Jean-Pierre Léaud) se retrouve confronté aux aberrations de la société de consommation moderne à travers une série de scènes fragmentées et stylisées ?",
-    "answer": "Godard"
-  },
-  {
-    "question": "Qui a réalisé le film 'Cléo de 5 à 7' dont la réalisation est connue pour son approche documentaire et ses portraits de femmes ?",
+    "question": "Quelle réalisatrice française est souvent surnommée la 'Grand-mère de la Nouvelle Vague' ?",
     "answer": "Agnès Varda"
   },
   {
-    "question": "Quel cinéaste a fondé le 'Groupe Dziga Vertov' avec Jean-Pierre Gorin à la fin des années 60, marquant une période de cinéma militant et expérimental ?",
-    "answer": "Godard"
+    "question": "Qui a réalisé le film de 1962 'Cléo de 5 à 7', qui suit en temps réel l'attente des résultats d'un examen médical par son héroïne ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Quelle cinéaste est connue pour avoir épousé le réalisateur Jacques Demy, et lui a dédié un film hommage après sa mort ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Qui est l'auteure du documentaire acclamé de 2000, 'Les Glaneurs et la Glaneuse', tourné en caméra numérique à la rencontre des personnes qui récupèrent les restes ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Quelle réalisatrice a remporté le Lion d'Or à Venise en 1985 pour son film 'Sans toit ni loi', mettant en scène l'errance de Mona ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Quel réalisateur ou réalisatrice a été la première femme à recevoir un Oscar d'honneur pour l'ensemble de sa carrière en 2017 ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Qui a co-réalisé le documentaire 'Visages Villages' (2017) avec l'artiste photographe JR ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Quel cinéaste a réalisé 'La Pointe Courte' (1955), considéré par beaucoup comme le premier film de la Nouvelle Vague, avant même 'Le Beau Serge' ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Qui a développé le concept de 'cinécriture' pour décrire sa méthode de travail qui mêle écriture, image et montage dans le processus filmique ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Quelle photographe de formation a débuté sa carrière professionnelle au Théâtre National Populaire (TNP) avant de passer à la réalisation ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Qui a réalisé le film autobiographique 'Les Plages d'Agnès' (2008), dans lequel elle revient sur les lieux marquants de sa vie ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Quel film de 1977, avec Michel Piccoli et Jane Birkin, a pour titre une citation d'un poème de Robert Desnos, 'L'Une chante, l'autre pas' ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Qui a réalisé 'Daguerréotypes' (1975), un documentaire sur les petits commerçants et la vie de son quartier autour de la rue Daguerre à Paris ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Quelle réalisatrice est connue pour sa coupe de cheveux au bol bicolore, devenue une véritable signature esthétique ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Qui a réalisé 'Jane B. par Agnès V.' (1988), un portrait onirique et créatif de l'actrice et chanteuse Jane Birkin ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Quel film de 1965, avec Michel Piccoli et Alexandra Stewart, est souvent considéré comme son film le plus 'Nouvelle Vague' ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Qui a signé la trilogie documentaire sur sa vie et son œuvre, comprenant 'Les Plages d'Agnès', 'Visages Villages' et 'Varda par Agnès' ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Qui est l'auteure du film 'Mur murs' (1980), un documentaire sur les fresques et les peintures murales de Los Angeles ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Qui a affirmé que 'Le hasard est mon meilleur assistant' en référence à sa façon d'intégrer l'imprévu dans ses documentaires ?",
+    "answer": "Agnès Varda"
+  },
+  {
+    "question": "Quelle personnalité du cinéma français, décédée en 2019, a été officier de la Légion d'honneur et Commandeur de l'Ordre national du Mérite ?",
+    "answer": "Agnès Varda"
   }
 ]
 
 export const ghibliQuestions = [
   {
-    "question": "Quel est le nom du film donnée par Buena Vista Entertainment qui est une version tronquée de 'Nausicaa la vallée du vent' ?",
-    "answer": "Warriors of The Wind ('Le Vaisseau Fantôme' ou 'La Princesse des étoiles' acceptés)"
+    "question": "Dans 'Le Château Ambulant', quelle transformation magique subit l'héroïne, Sophie, à cause de la Sorcière des Landes ?",
+    "answer": "Elle devient une vieille femme"
   },
   {
-    "question": "Dans 'Le Voyage de Chihiro', quel est le nom du train qui voyage sur l'eau et emmène Chihiro vers la sorcière Zeniba ?",
-    "answer": "Le train des mers"
+    "question": "Dans 'Le Voyage de Chihiro', comment s'appelle le personnage principal qui se retrouve dans le monde des esprits ?",
+    "answer": "Chihiro (ou Sen)"
+  },
+  {
+    "question": "Quel est le titre du film où une jeune sorcière utilise son balai pour faire des livraisons ?",
+    "answer": "Kiki la petite sorcière"
   },
   {
     "question": "Dans 'Le Château Ambulant', le château peut se déplacer. Comment s'appelle le magicien qui le dirige ?",
     "answer": "Hauru (ou Hauru Jenkins)"
   },
   {
-    "question": "Qui est le producteur principal de la plupart des films du studio ghibli ?",
-    "answer": "Toshio Suzuki"
+    "question": "Quel est le nom du film dont un garçon se lie d'amitié avec un poisson rouge qui veut devenir humaine ?",
+    "answer": "Ponyo sur la falaise"
   },
   {
-    "question": "Quel est le nom de du jeune homme qui aide Chihiro a être employé au bain public de Yubaba ?",
-    "answer": "Haku"
-  },
-  {
-    "question": "Quel est le nom du petit garçon qui se lie d'amitié avec un poisson rouge qui veut devenir humaine dans 'Ponyo sur la falaise' ?",
-    "answer": "Sosuke"
-  },
-  {
-    "question": "En quelle année est sortie le 1er film du studio Ghibli ?",
-    "answer": "En 1984 (1986 acceptée)"
-  },
-  {
-    "question": "Dans 'Princesse Mononoké', quelle est le nom du personnage qui est touchée par la malédiction du dieu sanglier Nago devenu démon ?",
+    "question": "Dans 'Princesse Mononoké', qui est touché par la malédiction et recherche une cure ?",
     "answer": "Ashitaka"
   },
   {
-    "question": "Quel est le nom du bus que Totoro utilise pour se déplacer ?",
-    "answer": "Nekobasu (Chat-bus en français)"
+    "question": "Quel est le nom du petit garçon qui accompagne Sheeta dans sa quête du 'Château dans le ciel' ?",
+    "answer": "Pazu"
   },
   {
-    "question": "Dans 'Porco Rosso', quel comédien de doublage interprête la voix du protagoniste principal en français ?",
-    "answer": "Jean Reno"
+    "question": "Quel est le nom du film dont le personnage principale est un cochon aviateur ?",
+    "answer": "Porco Rosso"
   },
   {
-    "question": "Quel est le nom du garçon souffrant d'une maladie pulmonaire qui devient ami avec Anna dans 'Souvenirs de Marnie' ?",
-    "answer": "Kazuhiko"
-  },
-  {
-    "question": "Dans 'Mon voisin Totoro', quel est le nom de la petite fille qui découvre Totoro avec sa sœur Satsuki ?",
-    "answer": "Mei"
-  },
-  {
-    "question": "Quel film de Ghibli suit l'histoire d'une jeune sorcière qui quitte sa famille pour s'établir en ville et ouvrir un service de livraison ?",
-    "answer": "Kiki la petite sorcière"
-  },
-  {
-    "question": "Quel est le nom du héros principal du film 'Les Contes de Terremer', qui est aussi un prince fugueur ?",
-    "answer": "Arren"
-  },
-  {
-    "question": "Dans 'Porco Rosso', quel est le nom de l'ingénieure qui construit et répare l'hydravion de Porco ?",
-    "answer": "Fio Piccolo"
-  },
-  {
-    "question": "Quel est le film de Ghibli qui n'est pas réalisé par Hayao Miyazaki ou Isao Takahata, mais par Yoshifumi Kondō, et qui raconte l'histoire de Shizuku, une jeune fille passionnée de lecture ?",
-    "answer": "Si tu tends l'oreille"
-  },
-  {
-    "question": "Quel est le nom du vieil homme grincheux mais bienveillant qui aide le Prince Ashitaka dans 'Princesse Mononoké' ?",
-    "answer": "Jiko-Bou (ou Jigo)"
-  },
-  {
-    "question": "Dans 'Le Château Ambulant', qui a lancé le sort transformant Sophie en vielle femme ?",
-    "answer": "la Sorcière des Landes"
-  },
-  {
-    "question": "Dans 'Nausicaä de la Vallée du Vent', quelle est la princesse qui peut comprendre et communiquer avec les insectes géants, les Ohmu ?",
+    "question": "Quelle est la princesse qui peut comprendre et communiquer avec les insectes géants, les Ohmu ?",
     "answer": "Nausicaä"
   },
   {
-    "question": "Quel est le dernier film d'Isao Takahata, sorti en 2013, qui utilise un style d'animation s'inspirant des estampes japonaises ?",
-    "answer": "Le Conte de la princesse Kaguya"
+    "question": "Quel est le film sur deux sœurs qui déménagent à la campagne avec leur père et rencontrent des esprits de la forêt ?",
+    "answer": "Mon voisin Totoro"
+  },
+  {
+    "question": "Quel animal est le principal compagnon de la sorcière dans 'Kiki la petite sorcière' ?",
+    "answer": "Un chat noir (Jiji)"
+  },
+  {
+    "question": "Quel réalisateur est le co-fondateur le plus célèbre du Studio Ghibli, souvent désigné comme son pilier ?",
+    "answer": "Hayao Miyazaki"
+  },
+  {
+    "question": "Dans 'Le Voyage de Chihiro', quel est le nom de la sorcière qui dirige les bains publics pour les esprits ?",
+    "answer": "Yubaba"
+  },
+  {
+    "question": "Quel est le titre du film qui raconte l'histoire de deux enfants tentant de survivre pendant la Seconde Guerre mondiale au Japon, connu pour être très émouvant ?",
+    "answer": "Le Tombeau des lucioles"
+  },
+  {
+    "question": "Quel film de Ghibli suit une fille rêveuse et passionnée par les romans et les contes. Un jour, elle remarque qu'un mystérieux Amasawa Seiji lit exactement les mêmes ouvrages avant elle ?",
+    "answer": "Si tu tends l'oreille"
+  },
+  {
+    "question": "Quel est le nom de la petite fée, grande d'environ 10 centimètres et chapardeuse ?",
+    "answer": "Arrietty"
+  },
+  {
+    "question": "Dans 'Ponyo sur la falaise', quelle est la profession de Lisa, la mère de Sosuke ?",
+    "answer": "Infirmière (ou aide-soignante)"
+  },
+  {
+    "question": "Quel est le nom de la grande ville où Kiki s'installe pour son année d'apprentissage de sorcière ?",
+    "answer": "Koriko"
+  },
+  {
+    "question": "Dans 'Princesse Mononoké', de quelle créature le prince Ashitaka est-il maudit après un combat ?",
+    "answer": "Un sanglier (ou Dieu-Sanglier)"
+  },
+  {
+    "question": "Dans 'Le Château Ambulant', quel est le nom du démon du feu lié par contrat au magicien Hauru ?",
+    "answer": "Calcifer"
   }
 ]

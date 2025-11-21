@@ -1,17 +1,15 @@
 import {
-  blockBustersQuestions,
-  cinemaFrancaisQuestions,
-  ghibliQuestions,
-  nouvelleVagueQuestions,
-  starWarsQuestions
+  christmasMoviesQuestions,
+  ghibliQuestions, horrorMoviesQuestions, nouvelleVagueQuestionsV2,
+  starWarsNiveauExtremeQuestions
 } from './questions.js';
 
 const quizDataToStore = {
-  "Star wars": starWarsQuestions,
-  "Block busters": blockBustersQuestions,
-  "Les classiques françaises": cinemaFrancaisQuestions,
-  "Nouvelle vague": nouvelleVagueQuestions,
-  "Ghibli": ghibliQuestions
+  "Star wars NIVEAU EXTREME 🌌": starWarsNiveauExtremeQuestions,
+  "Horreur 😱": horrorMoviesQuestions,
+  "Bientôt les vacances ! 🎄": christmasMoviesQuestions,
+  "Nouvelle vague v2 🥖": nouvelleVagueQuestionsV2,
+  "Ghibli niveau assez facile normalement 🗾": ghibliQuestions
 };
 
 if (!localStorage.getItem('quizData')) {
@@ -33,11 +31,12 @@ Object.entries(quizData).forEach(([theme, questions]) => {
 
   // Theme title, counter, and reset button
   const themeTitle = document.createElement('h2');
-  themeTitle.textContent = theme + ' ';
+  themeTitle.textContent = theme + '';
   themeTitle.style.cursor = 'pointer';
   const counter = document.createElement('span');
   counter.style.fontSize = '1rem';
   counter.style.fontWeight = 'normal';
+  counter.style.paddingLeft = '0.3rem';
   const checkedCount = quizChecked[theme].filter(Boolean).length;
   counter.textContent = `(${checkedCount}/${questions.length})`;
   themeTitle.appendChild(counter);
